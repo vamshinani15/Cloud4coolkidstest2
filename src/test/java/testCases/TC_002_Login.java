@@ -16,7 +16,7 @@ public class TC_002_Login extends BaseClass{
 		LoginPage lp=new LoginPage(driver);
 		hp.clcik_Login();
 		hp.click_Login_Student();
-		String file=System.getProperty("user.dir")+"/TestData/DemoLogin.xlsx";
+		String file=System.getProperty("user.dir")+"/TestData/LoginData.xlsx";
 		logger.info("***********Goto Excel Sheet**********");
 		int rows=Utils.getRowCount(file, "Sheet1");
 		logger.info("***********Read number of rows**********");
