@@ -1,0 +1,159 @@
+11:18:54.422 [main] INFO  testCases.TC_001_Registration - ***********Launched cloud4coolkids Webpage**********
+11:18:55.302 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:18:56.352 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:18:56.352 [main] INFO  testCases.TC_001_Registration - ***********Goto Excel sheet**********
+11:18:57.689 [main] INFO  testCases.TC_001_Registration - **********Read numer of rows in excel sheet**********
+11:18:58.788 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:18:58.957 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:18:59.601 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:18:59.737 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:18:59.856 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:00.110 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:01.087 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:02.342 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:02.479 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:02.619 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:02.693 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:03.613 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:04.588 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:05.602 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:06.912 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:07.075 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:07.312 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:07.430 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:07.547 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:07.776 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:08.897 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:10.088 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:10.241 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:10.392 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:10.453 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:11.298 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:12.064 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:12.832 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:13.498 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:13.641 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:13.785 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:13.885 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:13.983 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:14.153 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:15.192 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:16.296 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:16.431 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:16.541 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:16.600 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:17.441 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:18.186 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:18.959 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:19.516 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:19.727 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:19.979 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:20.157 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:20.347 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:20.554 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:21.773 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:22.971 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:23.095 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:23.233 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:23.309 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:24.145 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:24.887 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:25.715 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:26.163 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:26.290 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:26.445 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:26.566 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:26.680 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:26.840 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:27.909 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:29.007 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:29.154 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:29.270 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:29.331 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:30.212 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:30.952 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:31.693 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:32.251 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:32.439 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:32.885 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:33.204 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:33.495 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:33.738 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:34.615 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:35.640 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:35.774 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:35.880 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:35.940 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:36.835 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:37.646 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:38.554 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:38.910 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:39.043 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:39.174 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:39.277 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:39.380 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:39.547 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:40.545 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:41.542 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:41.655 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:41.771 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:41.832 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:42.709 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:43.507 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:44.258 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:44.732 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:44.868 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:45.031 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:45.156 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:45.282 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:45.490 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:46.505 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:47.339 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:47.448 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:47.562 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:47.662 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:48.499 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:49.273 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:50.076 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:50.424 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:50.518 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:50.650 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:50.755 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:50.859 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:51.026 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:52.198 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:53.222 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:53.330 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:53.440 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:53.508 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:54.351 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:19:55.076 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:19:55.866 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:19:56.242 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:19:56.338 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:19:56.465 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:19:56.578 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:19:56.697 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:19:56.864 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:19:57.870 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:19:58.819 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:19:58.939 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:19:59.059 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:19:59.128 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:19:59.987 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:20:00.761 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:20:01.600 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
+11:20:01.938 [main] INFO  testCases.TC_001_Registration - ***********Entered firstname**********
+11:20:02.073 [main] INFO  testCases.TC_001_Registration - **********Entered lastname***********
+11:20:02.241 [main] INFO  testCases.TC_001_Registration - ***********Entered email**********
+11:20:02.353 [main] INFO  testCases.TC_001_Registration - ***********Entered mobilenumber**********
+11:20:02.456 [main] INFO  testCases.TC_001_Registration - ***********Entered address**********
+11:20:02.690 [main] INFO  testCases.TC_001_Registration - ***********selected country**********
+11:20:03.745 [main] INFO  testCases.TC_001_Registration - ***********selected state**********
+11:20:04.922 [main] INFO  testCases.TC_001_Registration - ***********selected City**********
+11:20:05.101 [main] INFO  testCases.TC_001_Registration - ***********Entered Password**********
+11:20:05.229 [main] INFO  testCases.TC_001_Registration - ***********Entered Confirm Password**********
+11:20:05.286 [main] INFO  testCases.TC_001_Registration - ***********Terms & Conditions selected**********
+11:20:06.184 [main] INFO  testCases.TC_001_Registration - **********Registration Completed**********
+11:20:07.020 [main] INFO  testCases.TC_001_Registration - ***********Clicked on Registration**********
+11:20:07.607 [main] INFO  testCases.TC_001_Registration - ***********Selected Student**********
