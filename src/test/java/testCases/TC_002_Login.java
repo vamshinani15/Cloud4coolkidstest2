@@ -31,6 +31,8 @@ public class TC_002_Login extends BaseClass{
 			logger.info("***********Login Successfull**********");
 			lp.click_logout();
 			logger.info("***********Logout Successfull**********");
+			hp.clcik_Login();
+			hp.click_Login_Student();
 		}
 	}
 }
