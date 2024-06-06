@@ -5,7 +5,6 @@
     <classes>
       <class name="testCases.TC_002_Login">
         <methods>
-          <include name="tearDown"/>
           <include name="account_Login"/>
           <include name="setUp"/>
         </methods>
