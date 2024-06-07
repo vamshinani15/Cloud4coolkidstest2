@@ -26,13 +26,13 @@ public class DashboardPage extends BasePage{
 	@FindBy (xpath="//ul[@class='list-unstyled dashboard-left-menu']//a[text()='My Learning']")
 	WebElement btn_learning;
 	
-	@FindBy (xpath="//h4[@class='inner-heading pb-2 mb-0']//a")
+	@FindBy (xpath="//h4[@class='inner-heading pb-2 mb-0']//a[text()='The Complete Web Developer Course 3.0']")
 	WebElement btn_course;
 	
 	@FindBy (xpath="//a[text()='Login to VDC']")
 	WebElement btn_loginvdc;
-	
-	@FindBy (id="button-1066-btnInnerEl")
+	//id="button-1066-btnInnerEl"
+	@FindBy (xpath="//div[@id='visys_user_login-bodyWrap']//span[text()='Login SSO']")
 	WebElement btn_realm;
 	
 	@FindBy (xpath="//input[@id='pveloginrealm-inputEl']")
@@ -60,6 +60,7 @@ public class DashboardPage extends BasePage{
 	WebElement btn_vqin_logout;
 	
 	public void click_Mylearning() {
+		btn_learning.click();
 		btn_learning.click();
 	}
 	
