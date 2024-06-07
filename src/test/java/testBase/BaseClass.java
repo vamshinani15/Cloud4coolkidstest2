@@ -11,6 +11,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.*;
 
 public class BaseClass {
@@ -21,6 +22,7 @@ public class BaseClass {
 	public void setUp() {
 		logger=LogManager.getLogger(this.getClass());
 		driver=new ChromeDriver();
+		//driver=new EdgeDriver();
 		driver.get("https://cloud4coolkids.com/");
 		logger.info("***********Launched cloud4coolkids Webpage**********");
 		driver.manage().window().maximize();
