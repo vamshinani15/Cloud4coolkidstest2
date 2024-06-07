@@ -44,8 +44,8 @@ public class BaseClass {
 		return destination;
 	}
 	
-	/*@AfterSuite
+	@AfterSuite
 	public void tearDown() {
 		driver.quit();
-	}*/
+	}
 }
