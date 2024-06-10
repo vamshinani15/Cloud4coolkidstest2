@@ -24,7 +24,7 @@ public class TC_001_Registration extends BaseClass{
 		logger.info("***********Goto Excel sheet**********");
 		int rows=Utils.getRowCount(file, "Sheet1");
 		logger.info("**********Read numer of rows in excel sheet**********");
-		for(int r=1;r<12;r++) {
+		for(int r=1;r<rows;r++) {
 			//read
 			String fname=Utils.getCellData(file, "Sheet1", r, 0);
 			String lastname=Utils.getCellData(file, "Sheet1", r, 1);

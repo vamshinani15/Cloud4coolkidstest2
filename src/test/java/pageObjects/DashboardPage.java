@@ -60,8 +60,9 @@ public class DashboardPage extends BasePage{
 	WebElement btn_vqin_logout;
 	
 	public void click_Mylearning() {
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		btn_learning.click();
-		btn_learning.click();
+		//btn_learning.click();
 	}
 	
 	public void click_Course() {

@@ -1,80 +1,35 @@
-15:28:48.217 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
-15:28:51.086 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
-15:28:52.308 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
-15:28:52.737 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:28:52.958 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:28:53.049 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:28:57.696 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:28:58.790 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:28:59.357 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:29:16.304 [main] INFO  testCases.TC_002_Login - ***********Clicked on sso**********
-15:29:19.914 [main] INFO  testCases.TC_002_Login - ***********Logout Successfull**********
-15:29:24.376 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:29:24.784 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:29:24.879 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:29:30.398 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:29:31.046 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:29:31.259 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:34:47.467 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
-15:34:50.089 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
-15:34:51.379 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
-15:34:52.033 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:34:52.190 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:34:52.289 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:34:57.028 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:34:57.640 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:34:57.997 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:38:23.428 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
-15:38:25.956 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
-15:38:27.345 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
-15:38:27.782 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:38:27.976 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:38:28.068 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:38:32.410 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:38:33.310 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:38:33.857 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:38:50.211 [main] INFO  testCases.TC_002_Login - ***********Clicked on sso**********
-15:38:51.942 [main] INFO  testCases.TC_002_Login - ***********Logout Successfull**********
-15:38:54.616 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:38:54.736 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:38:54.833 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:38:58.628 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:41:01.548 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
-15:41:04.123 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
-15:41:05.482 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
-15:41:06.046 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:41:06.202 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:41:06.288 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:41:11.028 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:41:12.031 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:41:12.585 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:41:29.238 [main] INFO  testCases.TC_002_Login - ***********Clicked on sso**********
-15:41:31.198 [main] INFO  testCases.TC_002_Login - ***********Logout Successfull**********
-15:41:33.907 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:41:34.066 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:41:34.165 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:41:38.470 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:41:39.193 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:41:39.416 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:41:55.638 [main] INFO  testCases.TC_002_Login - ***********Clicked on sso**********
-15:41:57.536 [main] INFO  testCases.TC_002_Login - ***********Logout Successfull**********
-15:42:00.070 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:42:00.256 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:42:00.376 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:42:04.683 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:42:05.503 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:42:05.738 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:42:21.814 [main] INFO  testCases.TC_002_Login - ***********Clicked on sso**********
-15:42:23.549 [main] INFO  testCases.TC_002_Login - ***********Logout Successfull**********
-15:42:26.373 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:42:26.534 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:42:26.626 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:42:30.889 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
-15:42:31.502 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
-15:42:31.602 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
-15:42:47.474 [main] INFO  testCases.TC_002_Login - ***********Clicked on sso**********
-15:42:49.190 [main] INFO  testCases.TC_002_Login - ***********Logout Successfull**********
-15:42:51.594 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
-15:42:51.699 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
-15:42:51.766 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
-15:42:58.880 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
+12:20:42.481 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
+12:20:45.538 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
+12:20:46.650 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
+12:20:47.047 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
+12:20:47.173 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
+12:20:47.256 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
+12:20:53.630 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
+12:20:54.604 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
+12:20:55.189 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
+12:21:36.009 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
+12:21:39.021 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
+12:21:40.319 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
+12:21:40.770 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
+12:21:40.975 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
+12:21:41.108 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
+12:21:45.087 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
+12:21:45.926 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
+12:21:46.176 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********
+12:22:35.850 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
+12:22:38.973 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
+12:22:40.143 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
+12:22:40.440 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
+12:22:40.564 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
+12:22:40.657 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
+12:22:45.234 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
+12:22:45.347 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
+12:23:18.557 [main] INFO  testCases.TC_002_Login - ***********Launched cloud4coolkids Webpage**********
+12:23:22.364 [main] INFO  testCases.TC_002_Login - ***********Goto Excel Sheet**********
+12:23:24.228 [main] INFO  testCases.TC_002_Login - ***********Read number of rows**********
+12:23:24.615 [main] INFO  testCases.TC_002_Login - ***********Entered Email address**********
+12:23:24.755 [main] INFO  testCases.TC_002_Login - ***********Entered Password**********
+12:23:24.844 [main] INFO  testCases.TC_002_Login - ***********Login Successfull**********
+12:23:29.572 [main] INFO  testCases.TC_002_Login - ***********Clicked on My Learning**********
+12:23:30.222 [main] INFO  testCases.TC_002_Login - ***********Clicked on Course**********
+12:23:30.416 [main] INFO  testCases.TC_002_Login - ***********Clicked on loginvdc**********

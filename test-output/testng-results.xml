@@ -2,38 +2,38 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-07T15:41:01 IST" name="Default suite" finished-at="2024-06-07T15:43:03 IST" duration-ms="122225">
+  <suite started-at="2024-06-08T12:23:18 IST" name="Suite" finished-at="2024-06-08T12:23:41 IST" duration-ms="22503">
     <groups>
     </groups>
-    <test started-at="2024-06-07T15:41:01 IST" name="Default test" finished-at="2024-06-07T15:43:03 IST" duration-ms="122225">
+    <test started-at="2024-06-08T12:23:18 IST" name="Test" finished-at="2024-06-08T12:23:41 IST" duration-ms="22503">
       <class name="testCases.TC_002_Login">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_002_Login@33065d67]" started-at="2024-06-07T15:40:51 IST" name="setUp" finished-at="2024-06-07T15:41:01 IST" duration-ms="9837" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_002_Login@cb0755b]" started-at="2024-06-08T12:23:05 IST" name="setUp" finished-at="2024-06-08T12:23:18 IST" duration-ms="13080" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="account_Login()[pri:0, instance:testCases.TC_002_Login@33065d67]" started-at="2024-06-07T15:41:01 IST" name="account_Login" finished-at="2024-06-07T15:43:03 IST" duration-ms="122035" status="FAIL">
+        <test-method signature="account_Login()[pri:0, instance:testCases.TC_002_Login@cb0755b]" started-at="2024-06-08T12:23:19 IST" name="account_Login" finished-at="2024-06-08T12:23:40 IST" duration-ms="21532" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h4[@class='inner-heading pb-2 mb-0']//a"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='pveloginrealm-inputEl']"}
   (Session info: chrome=125.0.6422.142)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.11.0', revision: '040bc5406b'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [20a7b223488155997f430b6eabc71914, findElement {using=xpath, value=//h4[@class='inner-heading pb-2 mb-0']//a}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51463/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 20a7b223488155997f430b6eabc71914]]>
+Command: [be39d09302ae5355a0163e655d1d92b5, findElement {using=xpath, value=//input[@id='pveloginrealm-inputEl']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57894}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57894/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be39d09302ae5355a0163e655d1d92b5]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h4[@class='inner-heading pb-2 mb-0']//a"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='pveloginrealm-inputEl']"}
   (Session info: chrome=125.0.6422.142)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.11.0', revision: '040bc5406b'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [20a7b223488155997f430b6eabc71914, findElement {using=xpath, value=//h4[@class='inner-heading pb-2 mb-0']//a}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51463}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51463/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 20a7b223488155997f430b6eabc71914
+Command: [be39d09302ae5355a0163e655d1d92b5, findElement {using=xpath, value=//input[@id='pveloginrealm-inputEl']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\ADMIN\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57894}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57894/devtoo..., se:cdpVersion: 125.0.6422.142, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: be39d09302ae5355a0163e655d1d92b5
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -52,9 +52,9 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy30.click(Unknown Source)
-at pageObjects.DashboardPage.click_Course(DashboardPage.java:68)
-at testCases.TC_002_Login.account_Login(TC_002_Login.java:36)
+at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
+at pageObjects.DashboardPage.click_sso(DashboardPage.java:83)
+at testCases.TC_002_Login.account_Login(TC_002_Login.java:40)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -89,7 +89,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- account_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_Login@cb0755b]" started-at="2024-06-08T12:23:41 IST" name="tearDown" finished-at="2024-06-08T12:23:42 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_002_Login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
